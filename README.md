@@ -13,3 +13,5 @@ Amazon Web Services (AWS) es la plataforma de servicios en la nube más adoptada
 - **Inteligencia Artificial y Machine Learning**: Servicios como Amazon SageMaker permiten a los desarrolladores y científicos de datos construir, entrenar y desplegar modelos de machine learning a escala1.
 - **Seguridad y Cumplimiento**: AWS proporciona una amplia gama de herramientas y servicios para asegurar la infraestructura en la nube, incluyendo AWS Identity and Access Management (IAM) y AWS Key Management Service (KMS)1.
 - **Internet de las Cosas (IoT)**: AWS IoT Core permite a los dispositivos conectarse de manera segura a la nube y a otros dispositivos
+
+![cuota de mercado](https://cdn.statcdn.com/Infographic/images/normal/18819.jpeg)
